@@ -1,0 +1,19 @@
+.container {
+  height: 50px;
+  width: 100%;
+  background-color: rgb(19, 19, 19);
+}
+.nav_div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.nav_div li {
+  text-decoration: none;
+  list-style: none;
+  padding: 10px;
+  font-weight: bold;
+  letter-spacing: 2px;
+  color: white;
+}
